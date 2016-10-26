@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+}
+
+#questionsdiv{
+	border:1px solid black;
+	padding:10px;
+}
+
+.correct{
+	color:green;
+}
+
+.incorrect{
+	color:tomato;
+}
+
+#result{
+	font-size: 2em;
+	padding: 10px;
+}
